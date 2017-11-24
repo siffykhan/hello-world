@@ -1,2 +1,3 @@
 # hello-world
-My first repo
+
+Hi Homo sapiens! Be foolish, Be hungry!
